@@ -1,0 +1,289 @@
+{
+  "note": "Curated stock pool for card news backgrounds. No KBO or press photos, no identifiable player likenesses. Attribution is not required by the licence but is recorded here so provenance stays auditable.",
+  "files": {
+    "stadium-aerial-dodger.jpg": {
+      "source_url": "https://www.pexels.com/photo/2539659/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "imagevain",
+      "tags": [
+        "city",
+        "skyline",
+        "dusk"
+      ],
+      "width": 1600,
+      "height": 2000
+    },
+    "stadium-aerial-empty.jpg": {
+      "source_url": "https://www.pexels.com/photo/13653328/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "lasfotosdepipe",
+      "tags": [
+        "stadium",
+        "field",
+        "empty"
+      ],
+      "width": 1600,
+      "height": 900
+    },
+    "stadium-sunset-target.jpg": {
+      "source_url": "https://www.pexels.com/photo/28772774/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "tomasito",
+      "tags": [
+        "stadium",
+        "sunset"
+      ],
+      "width": 1600,
+      "height": 2133
+    },
+    "stadium-empty-chattanooga.jpg": {
+      "source_url": "https://www.pexels.com/photo/37428517/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "robert-medford",
+      "tags": [
+        "stadium",
+        "field",
+        "empty"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    "crowd-mono-stand.jpg": {
+      "source_url": "https://www.pexels.com/photo/10886958/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "jorge-villarreal",
+      "tags": [
+        "crowd",
+        "mono"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    "night-koshien-full.jpg": {
+      "source_url": "https://www.pexels.com/photo/16547083/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "ayyeee",
+      "tags": [
+        "night",
+        "crowd",
+        "stadium"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "stadium-crowd-aerial.jpg": {
+      "source_url": "https://www.pexels.com/photo/139762/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "punttim",
+      "tags": [
+        "stadium",
+        "crowd"
+      ],
+      "width": 1600,
+      "height": 1070
+    },
+    "field-sunset-aerial.jpg": {
+      "source_url": "https://www.pexels.com/photo/1757433/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "timo-volz",
+      "tags": [
+        "field",
+        "sunset"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    "stadium-drone-empty.jpg": {
+      "source_url": "https://www.pexels.com/photo/18780515/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "zetong-li",
+      "tags": [
+        "stadium",
+        "empty"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    "equipment-glove-balls-fence.jpg": {
+      "source_url": "https://www.pexels.com/photo/12783350/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "chris-f",
+      "tags": [
+        "equipment",
+        "glove",
+        "closeup"
+      ],
+      "width": 1600,
+      "height": 1068
+    },
+    "equipment-glove-ball-bench.jpg": {
+      "source_url": "https://www.pexels.com/photo/4094111/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "valery",
+      "tags": [
+        "equipment",
+        "glove",
+        "closeup"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "equipment-glove-ball-field.jpg": {
+      "source_url": "https://www.pexels.com/photo/1661950/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "steshka-croes",
+      "tags": [
+        "equipment",
+        "glove",
+        "grass"
+      ],
+      "width": 1600,
+      "height": 928
+    },
+    "equipment-bat-glove-dirt.jpg": {
+      "source_url": "https://www.pexels.com/photo/22028582/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "geraldo-gaspere",
+      "tags": [
+        "equipment",
+        "bat",
+        "dirt"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "equipment-glove-classic.jpg": {
+      "source_url": "https://www.pexels.com/photo/2868705/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "alexandro-david",
+      "tags": [
+        "equipment",
+        "glove",
+        "closeup"
+      ],
+      "width": 1600,
+      "height": 2400
+    },
+    "crowd-wrigley-day.jpg": {
+      "source_url": "https://www.pexels.com/photo/25547645/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "nikolai-fomin",
+      "tags": [
+        "crowd",
+        "stadium",
+        "day"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "crowd-koshien-stand.jpg": {
+      "source_url": "https://www.pexels.com/photo/16547085/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "ayyeee",
+      "tags": [
+        "crowd",
+        "night",
+        "stadium"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "crowd-comerica-packed.jpg": {
+      "source_url": "https://www.pexels.com/photo/27823652/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "kevin-early",
+      "tags": [
+        "crowd",
+        "stadium",
+        "day"
+      ],
+      "width": 1600,
+      "height": 2133
+    },
+    "crowd-yankee-aerial.jpg": {
+      "source_url": "https://www.pexels.com/photo/32345035/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "alecdoua",
+      "tags": [
+        "crowd",
+        "stadium",
+        "aerial"
+      ],
+      "width": 1600,
+      "height": 1069
+    },
+    "crowd-tmobile-seattle.jpg": {
+      "source_url": "https://www.pexels.com/photo/38795121/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "michael-vest",
+      "tags": [
+        "crowd",
+        "stadium",
+        "day"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    "lights-mono-tower.jpg": {
+      "source_url": "https://www.pexels.com/photo/4135333/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "steve-pancrate",
+      "tags": [
+        "lights",
+        "night",
+        "mono"
+      ],
+      "width": 1600,
+      "height": 1067
+    },
+    "lights-tower-sky.jpg": {
+      "source_url": "https://www.pexels.com/photo/37230172/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "muharrem-alper",
+      "tags": [
+        "lights",
+        "day",
+        "minimal"
+      ],
+      "width": 1600,
+      "height": 2133
+    },
+    "lights-empty-night.jpg": {
+      "source_url": "https://www.pexels.com/photo/28827841/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "siarhei-nester",
+      "tags": [
+        "lights",
+        "night",
+        "empty"
+      ],
+      "width": 1600,
+      "height": 1068
+    },
+    "lights-twilight-bowl.jpg": {
+      "source_url": "https://www.pexels.com/photo/32945758/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "a-b",
+      "tags": [
+        "lights",
+        "night",
+        "stadium"
+      ],
+      "width": 1600,
+      "height": 2162
+    },
+    "stadium-crowd-aerial-clean.jpg": {
+      "source_url": "https://www.pexels.com/photo/139762/",
+      "license": "Pexels License - free for commercial use, no attribution required",
+      "photographer": "punttim",
+      "tags": [
+        "stadium",
+        "crowd"
+      ],
+      "width": 1600,
+      "height": 1070,
+      "derived_from": "stadium-crowd-aerial.jpg",
+      "modification": "club logo on the outfield grass cloned out (Pexels License permits modification)"
+    }
+  }
+}
