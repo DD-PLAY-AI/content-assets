@@ -1,0 +1,26 @@
+[
+  {
+    "template": "milestone.html",
+    "photo": "lights-night-glow-mono.jpg",
+    "kicker": "2026 KBO 리그  <b>9월 11일</b> 금요일",
+    "eyebrow": "오늘 경기 리뷰",
+    "hero": "0",
+    "unit": "경기차",
+    "caption": "kt와 삼성, 또 나란히",
+    "score": "<span class=\"num win\">kt</span><span class=\"colon\">·</span><span class=\"num win\">삼성</span>",
+    "sub": "kt 7-1 롯데 · 키움 4-6 삼성",
+    "cells": "<div class=\"cell\"><div class=\"k\">양현종 통산</div><div class=\"v\">197<small>승</small></div></div><div class=\"cell\"><div class=\"k\">디아즈</div><div class=\"v\">5<small>타점</small></div></div><div class=\"cell\"><div class=\"k\">NC</div><div class=\"v\">3<small>연승</small></div></div>",
+    "note": "이겨도 못 벌리고, 져도 안 밀린다.",
+    "mark": "KBO.DUGOUT"
+  },
+  {
+    "template": "lineup.html",
+    "photo": "stadium-aerial-empty.jpg",
+    "kicker": "9월 11일 금요일  <b>2 / 2</b>",
+    "title": "4경기 결과",
+    "lede": "위는 제자리, 아래는 움직였다",
+    "games": "<div class=\"game\" style=\"--row:#EB1C24\"><div class=\"where\">부산</div><div class=\"match\"><b>kt</b><i>7-1</i>롯데<span class=\"p\">로건 앨런 5⅓이닝 1실점</span></div><div class=\"point\">힐리어드 <em>3타점 3득점</em>. kt 4연승.</div></div><div class=\"game\" style=\"--row:#074CA1\"><div class=\"where\">대구</div><div class=\"match\">키움<i>4-6</i><b>삼성</b><span class=\"p\">디아즈 3안타 5타점</span></div><div class=\"point\"><em>3점 홈런</em>에 솔로포까지. 이승민은 시즌 21홀드 단독 선두.</div></div><div class=\"game\" style=\"--row:#EA0029\"><div class=\"where\">광주</div><div class=\"match\">SSG<i>2-5</i><b>KIA</b><span class=\"p\">양현종 5⅓이닝 7K</span></div><div class=\"point\">통산 <em>197승</em>. 박재현 결승 솔로포로 3연패 탈출.</div></div><div class=\"game\" style=\"--row:#315288\"><div class=\"where\">대전</div><div class=\"match\"><b>NC</b><i>9-7</i>한화<span class=\"p\">8회 결승점</span></div><div class=\"point\">6-6에서 무사 만루, <em>박민우 희생 파울플라이</em>.</div></div>",
+    "note": "5위 두산과 <em>3경기</em> 차.",
+    "mark": "KBO.DUGOUT"
+  }
+]
