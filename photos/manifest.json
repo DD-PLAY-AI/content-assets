@@ -1,289 +1,985 @@
 {
-  "note": "Curated stock pool for card news backgrounds. No KBO or press photos, no identifiable player likenesses. Attribution is not required by the licence but is recorded here so provenance stays auditable.",
-  "files": {
-    "stadium-aerial-dodger.jpg": {
-      "source_url": "https://www.pexels.com/photo/2539659/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "imagevain",
-      "tags": [
-        "city",
-        "skyline",
-        "dusk"
-      ],
-      "width": 1600,
-      "height": 2000
-    },
-    "stadium-aerial-empty.jpg": {
-      "source_url": "https://www.pexels.com/photo/13653328/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "lasfotosdepipe",
-      "tags": [
-        "stadium",
-        "field",
-        "empty"
-      ],
-      "width": 1600,
-      "height": 900
-    },
-    "stadium-sunset-target.jpg": {
-      "source_url": "https://www.pexels.com/photo/28772774/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "tomasito",
-      "tags": [
-        "stadium",
-        "sunset"
-      ],
-      "width": 1600,
-      "height": 2133
-    },
-    "stadium-empty-chattanooga.jpg": {
-      "source_url": "https://www.pexels.com/photo/37428517/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "robert-medford",
-      "tags": [
-        "stadium",
-        "field",
-        "empty"
-      ],
-      "width": 1600,
-      "height": 1200
-    },
-    "crowd-mono-stand.jpg": {
-      "source_url": "https://www.pexels.com/photo/10886958/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "jorge-villarreal",
-      "tags": [
-        "crowd",
-        "mono"
-      ],
-      "width": 1600,
-      "height": 1200
-    },
-    "night-koshien-full.jpg": {
-      "source_url": "https://www.pexels.com/photo/16547083/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "ayyeee",
-      "tags": [
-        "night",
-        "crowd",
-        "stadium"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "stadium-crowd-aerial.jpg": {
-      "source_url": "https://www.pexels.com/photo/139762/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "punttim",
-      "tags": [
-        "stadium",
-        "crowd"
-      ],
-      "width": 1600,
-      "height": 1070
-    },
-    "field-sunset-aerial.jpg": {
-      "source_url": "https://www.pexels.com/photo/1757433/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "timo-volz",
-      "tags": [
-        "field",
-        "sunset"
-      ],
-      "width": 1600,
-      "height": 1066
-    },
-    "stadium-drone-empty.jpg": {
-      "source_url": "https://www.pexels.com/photo/18780515/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "zetong-li",
-      "tags": [
-        "stadium",
-        "empty"
-      ],
-      "width": 1600,
-      "height": 1200
-    },
-    "equipment-glove-balls-fence.jpg": {
-      "source_url": "https://www.pexels.com/photo/12783350/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "chris-f",
-      "tags": [
-        "equipment",
-        "glove",
-        "closeup"
-      ],
-      "width": 1600,
-      "height": 1068
-    },
-    "equipment-glove-ball-bench.jpg": {
-      "source_url": "https://www.pexels.com/photo/4094111/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "valery",
-      "tags": [
-        "equipment",
-        "glove",
-        "closeup"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "equipment-glove-ball-field.jpg": {
-      "source_url": "https://www.pexels.com/photo/1661950/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "steshka-croes",
-      "tags": [
-        "equipment",
-        "glove",
-        "grass"
-      ],
-      "width": 1600,
-      "height": 928
-    },
-    "equipment-bat-glove-dirt.jpg": {
-      "source_url": "https://www.pexels.com/photo/22028582/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "geraldo-gaspere",
-      "tags": [
-        "equipment",
-        "bat",
-        "dirt"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "equipment-glove-classic.jpg": {
-      "source_url": "https://www.pexels.com/photo/2868705/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "alexandro-david",
-      "tags": [
-        "equipment",
-        "glove",
-        "closeup"
-      ],
-      "width": 1600,
-      "height": 2400
-    },
-    "crowd-wrigley-day.jpg": {
-      "source_url": "https://www.pexels.com/photo/25547645/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "nikolai-fomin",
-      "tags": [
-        "crowd",
-        "stadium",
-        "day"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "crowd-koshien-stand.jpg": {
-      "source_url": "https://www.pexels.com/photo/16547085/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "ayyeee",
-      "tags": [
-        "crowd",
-        "night",
-        "stadium"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "crowd-comerica-packed.jpg": {
-      "source_url": "https://www.pexels.com/photo/27823652/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "kevin-early",
-      "tags": [
-        "crowd",
-        "stadium",
-        "day"
-      ],
-      "width": 1600,
-      "height": 2133
-    },
-    "crowd-yankee-aerial.jpg": {
-      "source_url": "https://www.pexels.com/photo/32345035/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "alecdoua",
-      "tags": [
-        "crowd",
-        "stadium",
-        "aerial"
-      ],
-      "width": 1600,
-      "height": 1069
-    },
-    "crowd-tmobile-seattle.jpg": {
-      "source_url": "https://www.pexels.com/photo/38795121/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "michael-vest",
-      "tags": [
-        "crowd",
-        "stadium",
-        "day"
-      ],
-      "width": 1600,
-      "height": 1200
-    },
-    "lights-mono-tower.jpg": {
-      "source_url": "https://www.pexels.com/photo/4135333/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "steve-pancrate",
-      "tags": [
-        "lights",
-        "night",
-        "mono"
-      ],
-      "width": 1600,
-      "height": 1067
-    },
-    "lights-tower-sky.jpg": {
-      "source_url": "https://www.pexels.com/photo/37230172/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "muharrem-alper",
-      "tags": [
-        "lights",
-        "day",
-        "minimal"
-      ],
-      "width": 1600,
-      "height": 2133
-    },
-    "lights-empty-night.jpg": {
-      "source_url": "https://www.pexels.com/photo/28827841/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "siarhei-nester",
-      "tags": [
-        "lights",
-        "night",
-        "empty"
-      ],
-      "width": 1600,
-      "height": 1068
-    },
-    "lights-twilight-bowl.jpg": {
-      "source_url": "https://www.pexels.com/photo/32945758/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "a-b",
-      "tags": [
-        "lights",
-        "night",
-        "stadium"
-      ],
-      "width": 1600,
-      "height": 2162
-    },
-    "stadium-crowd-aerial-clean.jpg": {
-      "source_url": "https://www.pexels.com/photo/139762/",
-      "license": "Pexels License - free for commercial use, no attribution required",
-      "photographer": "punttim",
-      "tags": [
-        "stadium",
-        "crowd"
-      ],
-      "width": 1600,
-      "height": 1070,
-      "derived_from": "stadium-crowd-aerial.jpg",
-      "modification": "club logo on the outfield grass cloned out (Pexels License permits modification)"
-    }
+ "note": "Curated stock pool for card news backgrounds. No KBO or press photos, no identifiable player likenesses. Attribution is not required by the licence but is recorded here so provenance stays auditable.",
+ "files": {
+  "crowd-comerica-packed.jpg": {
+   "source_url": "https://www.pexels.com/photo/27823652/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "kevin-early",
+   "tags": [
+    "crowd",
+    "stadium",
+    "day"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "crowd-koshien-stand.jpg": {
+   "source_url": "https://www.pexels.com/photo/16547085/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "ayyeee",
+   "tags": [
+    "crowd",
+    "night",
+    "stadium"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "crowd-mono-stand.jpg": {
+   "source_url": "https://www.pexels.com/photo/10886958/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "jorge-villarreal",
+   "tags": [
+    "crowd",
+    "mono"
+   ],
+   "width": 1600,
+   "height": 1200
+  },
+  "crowd-tmobile-seattle.jpg": {
+   "source_url": "https://www.pexels.com/photo/38795121/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "michael-vest",
+   "tags": [
+    "crowd",
+    "stadium",
+    "day"
+   ],
+   "width": 1600,
+   "height": 1200
+  },
+  "crowd-wrigley-day.jpg": {
+   "source_url": "https://www.pexels.com/photo/25547645/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "nikolai-fomin",
+   "tags": [
+    "crowd",
+    "stadium",
+    "day"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "crowd-yankee-aerial.jpg": {
+   "source_url": "https://www.pexels.com/photo/32345035/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "alecdoua",
+   "tags": [
+    "crowd",
+    "stadium",
+    "aerial"
+   ],
+   "width": 1600,
+   "height": 1069
+  },
+  "equipment-ball-dirt-macro.jpg": {
+   "source_url": "https://www.pexels.com/photo/17219668/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Christopher Gaines",
+   "tags": [
+    "equipment",
+    "ball",
+    "dirt",
+    "macro"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-ball-pile.jpg": {
+   "source_url": "https://www.pexels.com/photo/26890858/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Connor Scott McManus",
+   "tags": [
+    "equipment",
+    "ball",
+    "texture"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "equipment-balls-worn-macro.jpg": {
+   "source_url": "https://www.pexels.com/photo/11901412/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Mick Haupt",
+   "tags": [
+    "equipment",
+    "ball",
+    "macro",
+    "worn"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-bat-balls-bench.jpg": {
+   "source_url": "https://www.pexels.com/photo/5184684/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Tima Miroshnichenko",
+   "tags": [
+    "equipment",
+    "bat",
+    "ball",
+    "bench"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-bat-balls-flatlay.jpg": {
+   "source_url": "https://www.pexels.com/photo/843341/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Erick Contreras",
+   "tags": [
+    "equipment",
+    "bat",
+    "ball",
+    "flatlay"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-bat-glove-dirt.jpg": {
+   "source_url": "https://www.pexels.com/photo/22028582/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "geraldo-gaspere",
+   "tags": [
+    "equipment",
+    "bat",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-bats-fence-lean.jpg": {
+   "source_url": "https://www.pexels.com/photo/18618017/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Mat Reding",
+   "tags": [
+    "equipment",
+    "bat",
+    "fence",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-bats-fence-lean2.jpg": {
+   "source_url": "https://www.pexels.com/photo/18618016/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Mat Reding",
+   "tags": [
+    "equipment",
+    "bat",
+    "fence",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-glove-ball-bench.jpg": {
+   "source_url": "https://www.pexels.com/photo/4094111/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "valery",
+   "tags": [
+    "equipment",
+    "glove",
+    "closeup"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-glove-ball-field.jpg": {
+   "source_url": "https://www.pexels.com/photo/1661950/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "steshka-croes",
+   "tags": [
+    "equipment",
+    "glove",
+    "grass"
+   ],
+   "width": 1600,
+   "height": 928
+  },
+  "equipment-glove-balls-fence.jpg": {
+   "source_url": "https://www.pexels.com/photo/12783350/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "chris-f",
+   "tags": [
+    "equipment",
+    "glove",
+    "closeup"
+   ],
+   "width": 1600,
+   "height": 1068
+  },
+  "equipment-glove-classic.jpg": {
+   "source_url": "https://www.pexels.com/photo/2868705/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "alexandro-david",
+   "tags": [
+    "equipment",
+    "glove",
+    "closeup"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-gloves-bat-shade.jpg": {
+   "source_url": "https://www.pexels.com/photo/22028583/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Geraldo Gaspere",
+   "tags": [
+    "equipment",
+    "glove",
+    "bat"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-helmet-balls-bat.jpg": {
+   "source_url": "https://www.pexels.com/photo/5184706/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Tima Miroshnichenko",
+   "tags": [
+    "equipment",
+    "helmet",
+    "grass"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-helmet-balls-grass.jpg": {
+   "source_url": "https://www.pexels.com/photo/5184709/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Tima Miroshnichenko",
+   "tags": [
+    "equipment",
+    "helmet",
+    "ball",
+    "grass"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-helmet-gloves-grass.jpg": {
+   "source_url": "https://www.pexels.com/photo/5184714/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Tima Miroshnichenko",
+   "tags": [
+    "equipment",
+    "helmet",
+    "glove",
+    "grass"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-mitt-ball-shallow.jpg": {
+   "source_url": "https://www.pexels.com/photo/1661950/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Steshka Croes",
+   "tags": [
+    "equipment",
+    "glove",
+    "grass",
+    "shallow-dof"
+   ],
+   "width": 1600,
+   "height": 928
+  },
+  "equipment-mitt-balls-infield.jpg": {
+   "source_url": "https://www.pexels.com/photo/17723969/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Israwmx",
+   "tags": [
+    "equipment",
+    "glove",
+    "infield",
+    "line"
+   ],
+   "width": 1600,
+   "height": 1600
+  },
+  "equipment-mitt-bat-ground.jpg": {
+   "source_url": "https://www.pexels.com/photo/22028582/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Geraldo Gaspere",
+   "tags": [
+    "equipment",
+    "glove",
+    "bat",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-mitt-bench-ball.jpg": {
+   "source_url": "https://www.pexels.com/photo/4094112/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Valery",
+   "tags": [
+    "equipment",
+    "glove",
+    "bench"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "equipment-mitt-blue-bench.jpg": {
+   "source_url": "https://www.pexels.com/photo/4094111/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Valery",
+   "tags": [
+    "equipment",
+    "glove",
+    "bench",
+    "blue"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "equipment-mitt-two-balls.jpg": {
+   "source_url": "https://www.pexels.com/photo/12783350/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Chris F",
+   "tags": [
+    "equipment",
+    "glove",
+    "ball",
+    "fence"
+   ],
+   "width": 1600,
+   "height": 1068
+  },
+  "equipment-plate-helmet-sand.jpg": {
+   "source_url": "https://www.pexels.com/photo/257970/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Pixabay",
+   "tags": [
+    "equipment",
+    "helmet",
+    "plate",
+    "sand",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "ground-ball-dirt-backlit.jpg": {
+   "source_url": "https://www.pexels.com/photo/19751336/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Sean Ingram",
+   "tags": [
+    "ground",
+    "dirt",
+    "ball",
+    "backlit"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "ground-dust-backlit-figure.jpg": {
+   "source_url": "https://www.pexels.com/photo/32024627/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Zacchaeus Rains",
+   "tags": [
+    "ground",
+    "dust",
+    "backlit",
+    "silhouette",
+    "dirt"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "ground-home-plate-park.jpg": {
+   "source_url": "https://www.pexels.com/photo/19751338/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Sean Ingram",
+   "tags": [
+    "ground",
+    "dirt",
+    "plate",
+    "park"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-bank-double.jpg": {
+   "source_url": "https://www.pexels.com/photo/5581856/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "EricBVD",
+   "tags": [
+    "lights",
+    "sky"
+   ],
+   "width": 1600,
+   "height": 1221
+  },
+  "lights-bank-wide-sky.jpg": {
+   "source_url": "https://www.pexels.com/photo/5581853/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "EricBVD",
+   "tags": [
+    "lights",
+    "sky",
+    "minimal"
+   ],
+   "width": 1600,
+   "height": 1187
+  },
+  "lights-cluster-lowangle.jpg": {
+   "source_url": "https://www.pexels.com/photo/10996090/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Radik 2707",
+   "tags": [
+    "lights",
+    "sky",
+    "low-angle"
+   ],
+   "width": 1600,
+   "height": 1048
+  },
+  "lights-empty-night.jpg": {
+   "source_url": "https://www.pexels.com/photo/28827841/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "siarhei-nester",
+   "tags": [
+    "lights",
+    "night",
+    "empty"
+   ],
+   "width": 1600,
+   "height": 1068
+  },
+  "lights-ground-fixture-turf.jpg": {
+   "source_url": "https://www.pexels.com/photo/10475229/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Codrin Rusu",
+   "tags": [
+    "lights",
+    "turf",
+    "closeup"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-lamp-cluster-blue.jpg": {
+   "source_url": "https://www.pexels.com/photo/36541450/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Troy Tumbin",
+   "tags": [
+    "lights",
+    "sky",
+    "blue"
+   ],
+   "width": 1600,
+   "height": 2422
+  },
+  "lights-lit-amber-sky.jpg": {
+   "source_url": "https://www.pexels.com/photo/32471031/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Magda Ehlers",
+   "tags": [
+    "lights",
+    "dusk",
+    "amber"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "lights-lit-violet-sky.jpg": {
+   "source_url": "https://www.pexels.com/photo/32471032/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Magda Ehlers",
+   "tags": [
+    "lights",
+    "dusk",
+    "violet"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "lights-mono-tower.jpg": {
+   "source_url": "https://www.pexels.com/photo/4135333/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "steve-pancrate",
+   "tags": [
+    "lights",
+    "night",
+    "mono"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "lights-night-glow-mono.jpg": {
+   "source_url": "https://www.pexels.com/photo/4135333/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Steve Pancrate",
+   "tags": [
+    "lights",
+    "night",
+    "mono"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "lights-pair-clouds.jpg": {
+   "source_url": "https://www.pexels.com/photo/11529118/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "FillipePhotos",
+   "tags": [
+    "lights",
+    "sky",
+    "clouds"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "lights-panel-closeup-sky.jpg": {
+   "source_url": "https://www.pexels.com/photo/35544253/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "AdemPercem",
+   "tags": [
+    "lights",
+    "closeup",
+    "sky"
+   ],
+   "width": 1600,
+   "height": 2407
+  },
+  "lights-pole-mint-net.jpg": {
+   "source_url": "https://www.pexels.com/photo/5249818/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Vlado Paunovic",
+   "tags": [
+    "lights",
+    "sky",
+    "mint"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-tower-autumn-trees.jpg": {
+   "source_url": "https://www.pexels.com/photo/35022894/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Muharrem Alper",
+   "tags": [
+    "lights",
+    "tower",
+    "autumn"
+   ],
+   "width": 1600,
+   "height": 2842
+  },
+  "lights-tower-blue-angle.jpg": {
+   "source_url": "https://www.pexels.com/photo/37230169/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Muharrem Alper",
+   "tags": [
+    "lights",
+    "tower",
+    "blue"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "lights-tower-far-teal.jpg": {
+   "source_url": "https://www.pexels.com/photo/15832367/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Hoinommm",
+   "tags": [
+    "lights",
+    "sky",
+    "teal"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-tower-green.jpg": {
+   "source_url": "https://www.pexels.com/photo/35309449/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Vinson Chu",
+   "tags": [
+    "lights",
+    "tower",
+    "green"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-tower-minimal-pale.jpg": {
+   "source_url": "https://www.pexels.com/photo/14351460/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Vlado Paunovic",
+   "tags": [
+    "lights",
+    "sky",
+    "minimal"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-tower-mono-stand.jpg": {
+   "source_url": "https://www.pexels.com/photo/37230167/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Muharrem Alper",
+   "tags": [
+    "lights",
+    "tower",
+    "mono"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "lights-tower-sky.jpg": {
+   "source_url": "https://www.pexels.com/photo/37230172/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "muharrem-alper",
+   "tags": [
+    "lights",
+    "day",
+    "minimal"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "lights-tower-stand-edge.jpg": {
+   "source_url": "https://www.pexels.com/photo/37230168/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Muharrem Alper",
+   "tags": [
+    "lights",
+    "tower",
+    "stand"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "lights-tower-sunset-silhouette.jpg": {
+   "source_url": "https://www.pexels.com/photo/18162375/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Damir",
+   "tags": [
+    "lights",
+    "sunset",
+    "silhouette"
+   ],
+   "width": 1600,
+   "height": 2845
+  },
+  "lights-tower-teal-dusk.jpg": {
+   "source_url": "https://www.pexels.com/photo/37230172/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Muharrem Alper",
+   "tags": [
+    "lights",
+    "tower",
+    "dusk"
+   ],
+   "width": 1600,
+   "height": 2133
+  },
+  "lights-tower-white-bg.jpg": {
+   "source_url": "https://www.pexels.com/photo/37331677/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Yavuz Eren Gungor",
+   "tags": [
+    "lights",
+    "tower",
+    "minimal"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "lights-twin-towers-mono.jpg": {
+   "source_url": "https://www.pexels.com/photo/17776858/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Artem Balashevsky",
+   "tags": [
+    "lights",
+    "tower",
+    "mono"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "night-koshien-full.jpg": {
+   "source_url": "https://www.pexels.com/photo/16547083/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "ayyeee",
+   "tags": [
+    "night",
+    "crowd",
+    "stadium"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "seats-blue-amber-block.jpg": {
+   "source_url": "https://www.pexels.com/photo/6539272/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Pavel Danilyuk",
+   "tags": [
+    "seats",
+    "empty",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1068
+  },
+  "seats-blue-grid.jpg": {
+   "source_url": "https://www.pexels.com/photo/39299287/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "SebasVargas0220",
+   "tags": [
+    "seats",
+    "empty",
+    "blue",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "seats-blue-numbered.jpg": {
+   "source_url": "https://www.pexels.com/photo/434633/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Pixabay",
+   "tags": [
+    "seats",
+    "empty",
+    "blue",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1200
+  },
+  "seats-blue-red-rows.jpg": {
+   "source_url": "https://www.pexels.com/photo/17131056/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Aysenaz Bilgin",
+   "tags": [
+    "seats",
+    "empty",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "seats-cyan-perspective.jpg": {
+   "source_url": "https://www.pexels.com/photo/15218784/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "AtlasWorld",
+   "tags": [
+    "seats",
+    "empty",
+    "cyan",
+    "perspective",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 2714
+  },
+  "seats-green-abstract.jpg": {
+   "source_url": "https://www.pexels.com/photo/4680027/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "FloodlightHunter",
+   "tags": [
+    "seats",
+    "empty",
+    "green",
+    "abstract",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1200
+  },
+  "seats-numbered-ochre.jpg": {
+   "source_url": "https://www.pexels.com/photo/6500913/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Claudio Pires de Oliveira",
+   "tags": [
+    "seats",
+    "empty",
+    "ochre",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1063
+  },
+  "seats-orange-closeup.jpg": {
+   "source_url": "https://www.pexels.com/photo/27937902/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Chuck",
+   "tags": [
+    "seats",
+    "empty",
+    "orange",
+    "closeup",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 2400
+  },
+  "seats-red-symmetry.jpg": {
+   "source_url": "https://www.pexels.com/photo/38478331/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Marina Endzhirgli",
+   "tags": [
+    "seats",
+    "empty",
+    "red",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 870
+  },
+  "seats-red-white-sweep.jpg": {
+   "source_url": "https://www.pexels.com/photo/37846245/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "JanViBez",
+   "tags": [
+    "seats",
+    "empty",
+    "red",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 2409
+  },
+  "seats-terraced-steps.jpg": {
+   "source_url": "https://www.pexels.com/photo/30903544/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Akoonie",
+   "tags": [
+    "seats",
+    "empty",
+    "steps",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 898
+  },
+  "seats-white-rows.jpg": {
+   "source_url": "https://www.pexels.com/photo/15390688/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Felipe Balduino",
+   "tags": [
+    "seats",
+    "empty",
+    "white",
+    "mono",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1065
+  },
+  "seats-yellow-closeup.jpg": {
+   "source_url": "https://www.pexels.com/photo/13030347/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Amar",
+   "tags": [
+    "seats",
+    "empty",
+    "yellow",
+    "closeup",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "seats-yellow-rows.jpg": {
+   "source_url": "https://www.pexels.com/photo/13030345/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "Amar",
+   "tags": [
+    "seats",
+    "empty",
+    "yellow",
+    "pattern",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1067
+  },
+  "stadium-aerial-dodger.jpg": {
+   "source_url": "https://www.pexels.com/photo/2539659/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "imagevain",
+   "tags": [
+    "city",
+    "skyline",
+    "dusk",
+    "stadium"
+   ],
+   "width": 1600,
+   "height": 2000
+  },
+  "stadium-aerial-empty.jpg": {
+   "source_url": "https://www.pexels.com/photo/13653328/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "lasfotosdepipe",
+   "tags": [
+    "stadium",
+    "field",
+    "empty"
+   ],
+   "width": 1600,
+   "height": 900
+  },
+  "stadium-crowd-aerial-clean.jpg": {
+   "source_url": "https://www.pexels.com/photo/139762/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "punttim",
+   "tags": [
+    "stadium",
+    "crowd"
+   ],
+   "width": 1600,
+   "height": 1070,
+   "derived_from": "pexels 139762 (original not kept in the pool: it carries the outfield logo)",
+   "modification": "club logo on the outfield grass cloned out (Pexels License permits modification)"
+  },
+  "stadium-empty-chattanooga.jpg": {
+   "source_url": "https://www.pexels.com/photo/37428517/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "robert-medford",
+   "tags": [
+    "stadium",
+    "field",
+    "empty"
+   ],
+   "width": 1600,
+   "height": 1200
+  },
+  "stadium-sunset-target.jpg": {
+   "source_url": "https://www.pexels.com/photo/28772774/",
+   "license": "Pexels License - free for commercial use, no attribution required",
+   "photographer": "tomasito",
+   "tags": [
+    "stadium",
+    "sunset"
+   ],
+   "width": 1600,
+   "height": 2133
   }
+ },
+ "rejected": {
+  "30941030": "advertising hoardings read 'TRICHES' / 'CASCAF'",
+  "11829295": "'Real Madrid' repeated on the handrail",
+  "20357034": "running track, not a baseball surface",
+  "13498100": "unidentified venue structure with legible signage",
+  "28574478": "404 on the CDN",
+  "lights-twilight-bowl.jpg": "cricket ground; 'KOLKATA KNIGHT RIDERS' and 'TATA IPL 2025' on the hoardings",
+  "field-sunset-aerial.jpg": "CPBL; 'LAMIGO MONKEYS' band repeated, players in frame",
+  "stadium-drone-empty.jpg": "Oracle Park; 'SAN FRANCISCO GIANTS' legible",
+  "stadium-crowd-aerial.jpg": "the un-cleaned original of stadium-crowd-aerial-clean.jpg; club logo still on the outfield",
+  "equipment-mitt-dark-ball.jpg": "ball reads 'Little League'",
+  "equipment-dugout-gear.jpg": "team logo on the cap"
+ }
 }
