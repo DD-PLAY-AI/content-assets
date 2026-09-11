@@ -1,0 +1,27 @@
+[
+  {
+    "template": "milestone.html",
+    "photo": "lights-tower-sky.jpg",
+    "accent": "#EA0029",
+    "kicker": "2026 KBO 리그  <b>9월 11일</b> 금요일",
+    "eyebrow": "오늘의 관전 포인트",
+    "hero": "4",
+    "unit": "승",
+    "caption": "양현종 200승까지",
+    "score": "<span class=\"num win\">KIA</span><span class=\"colon\">vs</span><span class=\"num\">SSG</span>",
+    "sub": "광주 18:30 · SSG 선발 이준기 · 8월 28일 우천 취소분",
+    "cells": "<div class=\"cell\"><div class=\"k\">통산</div><div class=\"v\">196<small>승</small></div></div><div class=\"cell\"><div class=\"k\">10승 시즌</div><div class=\"v\">12<small>회</small></div></div><div class=\"cell\"><div class=\"k\">역대 최다 송진우</div><div class=\"v\">210<small>승</small></div></div>",
+    "note": "오늘 이기면 <em>197승</em>. 남은 등판 4~5차례.",
+    "mark": "KBO.DUGOUT"
+  },
+  {
+    "template": "lineup.html",
+    "photo": "stadium-crowd-aerial-clean.jpg",
+    "kicker": "9월 11일 금요일  <b>2 / 2</b>",
+    "title": "나머지 세 경기",
+    "lede": "1위와 2위가 같은 시각, 다른 구장에서 뛴다",
+    "games": "<div class=\"game\" style=\"--row:#EB1C24\"><div class=\"where\">사직 18:30</div><div class=\"match\"><b>KT</b><span class=\"p\">로건 앨런</span><i>vs</i>롯데<span class=\"p\">김진욱</span></div><div class=\"point\">1위 KT. 어제 롯데를 <em>19안타 16-3</em>으로 완파했다.</div></div><div class=\"game\" style=\"--row:#074CA1\"><div class=\"where\">대구 18:30</div><div class=\"match\">키움<span class=\"p\">전준표</span><i>vs</i><b>삼성</b><span class=\"p\">크리스 페덱</span></div><div class=\"point\">승차 없는 2위. 하루 만의 선두 재탈환을 노린다.</div></div><div class=\"game\" style=\"--row:#315288\"><div class=\"where\">대전 18:30</div><div class=\"match\"><b>NC</b><span class=\"p\">이재학</span><i>vs</i>한화<span class=\"p\">황준서</span></div><div class=\"point\">어제 <em>11회</em> 끝에 KIA를 잡고 올라오는 중이다.</div></div>",
+    "note": "KT <em>0.610</em> · 삼성 <em>0.608</em>. 오늘 밤 순위가 갈린다.",
+    "mark": "KBO.DUGOUT"
+  }
+]
