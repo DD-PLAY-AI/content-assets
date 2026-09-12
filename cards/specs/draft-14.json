@@ -1,0 +1,26 @@
+[
+  {
+    "template": "milestone.html",
+    "photo": "lights-lit-amber-sky.jpg",
+    "kicker": "2026 KBO 리그  <b>9월 12일</b> 토요일",
+    "eyebrow": "오늘 경기 프리뷰",
+    "hero": "0",
+    "unit": "경기차",
+    "caption": "1위 kt · 2위 삼성",
+    "score": "<span class=\"num win\">0.613</span><span class=\"colon\">·</span><span class=\"num\">0.612</span>",
+    "sub": "kt 73승 46패 · 삼성 74승 47패",
+    "cells": "<div class=\"cell\"><div class=\"k\">오늘 kt 상대</div><div class=\"v\">4<small>위</small></div></div><div class=\"cell\"><div class=\"k\">오늘 삼성 상대</div><div class=\"v\">3<small>위</small></div></div><div class=\"cell\"><div class=\"k\">NC 최근 10경기</div><div class=\"v\">8<small>승</small></div></div>",
+    "note": "승차 0으로 맞은 주말. 오늘 <em>순서가 바뀔 수 있다</em>.",
+    "mark": "KBO.DUGOUT"
+  },
+  {
+    "template": "lineup.html",
+    "photo": "stadium-aerial-empty.jpg",
+    "kicker": "9월 12일 토요일  <b>2 / 2</b>",
+    "title": "오늘 4경기",
+    "lede": "전 경기 오후 5시 시작",
+    "games": "<div class=\"game\" style=\"--row:#EB1C24\"><div class=\"where\">수원</div><div class=\"match\">KIA<i>vs</i><b>kt</b><span class=\"p\">네일 – 대니엘</span></div><div class=\"point\">1위가 4위를 안방에서 맞는다. 시즌 상대 전적 <em>6승 6패</em>.</div></div><div class=\"game\" style=\"--row:#074CA1\"><div class=\"where\">대구</div><div class=\"match\">LG<i>vs</i><b>삼성</b><span class=\"p\">톨허스트 – 후라도</span></div><div class=\"point\">2위와 3위. 삼성이 LG에 <em>8승 6패</em>로 앞선다.</div></div><div class=\"game\" style=\"--row:#315288\"><div class=\"where\">잠실</div><div class=\"match\"><b>NC</b><i>vs</i>두산<span class=\"p\">구창모 – 잭로그</span></div><div class=\"point\">최근 10경기 <em>8승 2패</em> NC. 두산에는 3승 8패.</div></div><div class=\"game\" style=\"--row:#041E42\"><div class=\"where\">고척</div><div class=\"match\"><b>롯데</b><i>vs</i>키움<span class=\"p\">로드리게스 – 알칸타라</span></div><div class=\"point\">롯데가 키움에 <em>11승 2패</em>로 앞선다.</div></div>",
+    "note": "1위와 2위, 오늘 둘 다 <em>안방</em>이다.",
+    "mark": "KBO.DUGOUT"
+  }
+]
