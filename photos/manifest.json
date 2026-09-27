@@ -955,6 +955,97 @@
    ],
    "width": 1600,
    "height": 2133
+  },
+  "ai-pitcher-dusk.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "dusk",
+    "stadium",
+    "lights",
+    "pitcher"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-catcher-dust.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "night",
+    "lights",
+    "dirt",
+    "catcher"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-infield-dive.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "day",
+    "dirt",
+    "grass",
+    "fielder"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-dugout-evening.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "dusk",
+    "stadium",
+    "dugout"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-rain-tarp.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "dawn",
+    "stadium",
+    "rain",
+    "empty"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-ball-chalk.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "night",
+    "ball",
+    "dirt",
+    "lights"
+   ],
+   "width": 1122,
+   "height": 1402
+  },
+  "ai-blue-night.jpg": {
+   "source_url": "generated: Codex CLI image_generation, 2026-09-27 (T-0098)",
+   "license": "AI-generated for this account; no real players, logos or text",
+   "photographer": "AI (operator-selected)",
+   "tags": [
+    "night",
+    "stadium",
+    "lights",
+    "crowd",
+    "fielder"
+   ],
+   "width": 1122,
+   "height": 1402
   }
  },
  "rejected": {
