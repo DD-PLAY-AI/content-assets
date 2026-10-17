@@ -1,6 +1,6 @@
 # content-assets
 
-Public hosting for [`content-system`](https://github.com/DD-PLAY-AI/content-system)
+Public hosting for [`content-system`](https://github.com/dot-connects/content-system)
 (which is private). Two jobs, one reason:
 
 - `cards/` — card-news images. Meta's Graph API does not accept file uploads;
