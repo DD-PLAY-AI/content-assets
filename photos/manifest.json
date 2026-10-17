@@ -1,18 +1,6 @@
 {
  "note": "Curated stock pool for card news backgrounds. No KBO or press photos, no identifiable player likenesses. Attribution is not required by the licence but is recorded here so provenance stays auditable.",
  "files": {
-  "crowd-koshien-stand.jpg": {
-   "source_url": "https://www.pexels.com/photo/16547085/",
-   "license": "Pexels License - free for commercial use, no attribution required",
-   "photographer": "ayyeee",
-   "tags": [
-    "crowd",
-    "night",
-    "stadium"
-   ],
-   "width": 1600,
-   "height": 1067
-  },
   "crowd-mono-stand.jpg": {
    "source_url": "https://www.pexels.com/photo/10886958/",
    "license": "Pexels License - free for commercial use, no attribution required",
@@ -47,18 +35,6 @@
    ],
    "width": 1600,
    "height": 1067
-  },
-  "crowd-yankee-aerial.jpg": {
-   "source_url": "https://www.pexels.com/photo/32345035/",
-   "license": "Pexels License - free for commercial use, no attribution required",
-   "photographer": "alecdoua",
-   "tags": [
-    "crowd",
-    "stadium",
-    "aerial"
-   ],
-   "width": 1600,
-   "height": 1069
   },
   "equipment-ball-dirt-macro.jpg": {
    "source_url": "https://www.pexels.com/photo/17219668/",
@@ -1060,6 +1036,8 @@
   "stadium-crowd-aerial.jpg": "the un-cleaned original of stadium-crowd-aerial-clean.jpg; club logo still on the outfield",
   "equipment-mitt-dark-ball.jpg": "ball reads 'Little League'",
   "equipment-dugout-gear.jpg": "team logo on the cap",
-  "crowd-comerica-packed.jpg": "'FORD FIELD' signage legible behind the stand (seen on a T-0086 test render)"
+  "crowd-comerica-packed.jpg": "'FORD FIELD' signage legible behind the stand (seen on a T-0086 test render)",
+  "16547085": "sponsor boards read 'SUZUKI' / 'ZETT' / 'LAWSON'",
+  "32345035": "ad boards read 'AVIS' / 'KIKKOMAN' / 'Budweiser' / 'Wendy's'"
  }
 }
